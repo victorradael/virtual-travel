@@ -1,6 +1,6 @@
 <div align="center" >
 
-# Virtual Travel
+![Landing page Virtual Travel](./public/assets/landing.png)
 
 </div>
 
